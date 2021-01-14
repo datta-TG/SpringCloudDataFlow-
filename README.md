@@ -15,7 +15,7 @@ If you have a Lite account, you can upgrade it. Click [here](https://cloud.ibm.c
 
 ![Screenshot](KubernetesPaid1.PNG)
 
-We'll choose the Standard Plan for this documentation as the Free Plan may fall short in resources when deploying your pods. We highly recommend using a Standard Plan with the hardware that suits you the best. If you're selecting the Standard Plan, please make sure you select the adequate requirements,
+We'll choose the Standard Plan for this documentation as the Free Plan may fall short of resources when deploying your pods. We highly recommend using a Standard Plan with the hardware that suits you the best. If you're selecting the Standard Plan, please make sure you select the adequate requirements,
 
 * Select your Kubernetes Version to be the latest available or the required one by your application. In this example, we have set it to be '1.18.13'.
 * Select Infrastructure as 'Classic'.
