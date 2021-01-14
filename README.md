@@ -90,7 +90,7 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 `$ kubectl get ns`
 
-![Screenshot](testspring1.png)
+![Screenshot](testspring1.PNG)
 
 * You can then obtain more data about the service and it's pods. You can now use the External IP and its port to call the TensowFlow Resnet model in your own application.
 
