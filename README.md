@@ -92,7 +92,7 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 ![Screenshot](testspring1.PNG)
 
-* You can then obtain more data about the service and it's pods. You can now use the External IP and its port to call the TensowFlow Resnet model in your own application.
+* You can then obtain more data about the service and it's pods. You can see the different pods Spring is using.
 
 `$ kubectl get pod -n NAMESERVICE -o wide`
 
@@ -102,7 +102,7 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 ![Screenshot](testspring3.PNG)
 
-* Select the pod within your service using bash if you want to use the files or change any configuration of the TensorFlow installation.
+* Select the pod within your service using bash if you want to use its files or change any configuration of it.
 
 `$ kubectl exec --stdin --tty PODNAME -n NAMESPACE -- /bin/bash`
 
