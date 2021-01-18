@@ -51,11 +51,11 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 * Click on the search section at the top of the main page, select IBM Cloud Block Storage, and click on it.
 
-![Screenshot](Storage1.PNG)
+![Screenshot](StoragePaid1.PNG)
 
 * A new window opens, select the cluster and enter the name you want for this workspace, in this case, it will be called _storage-example_, accept the terms, click *Install* and wait a few minutes.
 
-![Screenshot](StoragePaid1.PNG)
+![Screenshot](StoragePaid2.PNG)
 
 
 ## Step 3: Install Spring Cloud Data Flow
